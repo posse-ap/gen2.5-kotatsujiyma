@@ -1,0 +1,41 @@
+.quiz1 {
+  width: fit-content; 
+  font-size: 17px;
+  font-weight: 500;
+  border-bottom: 2px green solid;
+}
+.choice{
+  box-shadow: 3px 2px 1px gray;
+  font-weight: 600;
+  line-height: 150%;
+  margin: 10px;
+  list-style: none;
+  width: 550px;
+  border: 1px solid #ebebeb;
+  padding: 13px;
+}
+.quizdiv {
+    width: 80%;
+    margin: 0 auto;
+    max-width: 500px;
+}
+.takanawa {
+  width: 100%;
+}
+.takawatati {
+  padding: 0;
+  margin: 0;
+}
+.answer{
+  background-color:#297dfe;
+  color:white;
+}
+.answerBox{
+  background-color: #f5f5f5;
+}
+.title{
+  border-bottom: 2px #297dfe solid;
+  
+
+
+}
